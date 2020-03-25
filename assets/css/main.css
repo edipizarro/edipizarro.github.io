@@ -381,6 +381,14 @@
 			font-size: 0.8em;
 		}
 
+        input[type="submit"].medium,
+        input[type="reset"].medium,
+        input[type="button"].medium,
+        button.medium,
+        .button.medium {
+            font-size: 1.0em;
+        }
+
 		input[type="submit"].big,
 		input[type="reset"].big,
 		input[type="button"].big,
